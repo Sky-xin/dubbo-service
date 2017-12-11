@@ -1,0 +1,1123 @@
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:         11615       68140040  [I
+   2:        162123       14409432  [C
+   3:         22021       13739128  [B
+   4:         74068        2370176  java.util.HashMap$Node
+   5:          9522        1725600  [Ljava.lang.Object;
+   6:         71181        1708344  java.lang.String
+   7:         11686         858304  [Ljava.util.HashMap$Node;
+   8:         33203         796872  java.lang.StringBuilder
+   9:         13980         671040  java.util.HashMap
+  10:         10903         525216  [Ljava.lang.String;
+  11:          3118         352664  java.lang.Class
+  12:          8727         349080  java.util.HashMap$EntryIterator
+  13:          7409         296360  java.util.HashMap$KeyIterator
+  14:          8936         285952  java.util.concurrent.ConcurrentHashMap$Node
+  15:         17486         279776  java.util.Collections$UnmodifiableMap$UnmodifiableEntrySet$UnmodifiableEntry
+  16:          3727         268344  com.alibaba.dubbo.common.URL
+  17:          3832         183936  java.nio.HeapCharBuffer
+  18:          1224         176256  java.text.DecimalFormat
+  19:          2446         156544  java.text.DecimalFormatSymbols
+  20:          2444         156416  java.util.regex.Matcher
+  21:          1770         155760  java.lang.reflect.Method
+  22:          1347         151888  [Ljava.util.concurrent.ConcurrentHashMap$Node;
+  23:          1224         137088  java.util.GregorianCalendar
+  24:          5261         126264  java.util.ArrayList
+  25:          5148         123552  java.lang.Long
+  26:          3076         123040  java.lang.ref.Finalizer
+  27:          3729         119328  java.util.Collections$UnmodifiableMap
+  28:          7443         119088  java.util.HashMap$EntrySet
+  29:          1228         117840  [J
+  30:          1225         117600  sun.util.calendar.Gregorian$Date
+  31:          2447         117456  java.nio.HeapByteBuffer
+  32:          1222          97760  com.alibaba.com.caucho.hessian.io.Hessian2Input
+  33:          2322          92880  java.lang.ref.SoftReference
+  34:          1446          92544  java.util.concurrent.ConcurrentHashMap
+  35:           219          82344  java.lang.Thread
+  36:          1467          82152  java.util.zip.ZipFile$ZipFileInputStream
+  37:          2507          80224  java.io.FileDescriptor
+  38:          1235          79040  java.nio.DirectByteBuffer
+  39:          2451          78432  org.jboss.netty.util.internal.LinkedTransferQueue$Node
+  40:          1224          78336  java.text.DateFormatSymbols
+  41:          1223          78272  java.text.SimpleDateFormat
+  42:          2445          78240  com.alibaba.dubbo.remoting.buffer.HeapChannelBuffer
+  43:          2445          78240  org.jboss.netty.buffer.BigEndianHeapChannelBuffer
+  44:          1222          78208  com.alibaba.dubbo.rpc.RpcContext
+  45:          2444          78208  org.jboss.netty.channel.DownstreamMessageEvent
+  46:          1393          78008  java.util.zip.ZipFile$ZipFileInflaterInputStream
+  47:          1322          74168  [Z
+  48:          2297          73504  java.util.concurrent.SynchronousQueue$TransferStack$SNode
+  49:          3196          73072  [Ljava.lang.Class;
+  50:          1231          68936  sun.util.calendar.ZoneInfo
+  51:          1222          68432  java.util.Calendar$Builder
+  52:          2625          63000  java.lang.StringBuffer
+  53:          2492          59808  [Ljava.net.InetSocketAddress;
+  54:          2486          59664  java.util.Collections$UnmodifiableMap$UnmodifiableEntrySet$1
+  55:          2447          58728  java.util.Date
+  56:          1223          58704  com.alibaba.dubbo.monitor.dubbo.Statistics
+  57:          1222          58656  com.alibaba.com.caucho.hessian.io.Hessian2Output
+  58:          1222          58656  com.alibaba.dubbo.rpc.protocol.dubbo.DecodeableRpcInvocation
+  59:          2444          58656  org.jboss.netty.channel.UpstreamMessageEvent
+  60:          1412          56480  java.util.LinkedHashMap$Entry
+  61:          3419          54704  java.lang.Object
+  62:          1653          52896  java.lang.StackTraceElement
+  63:          1224          48960  java.text.DigitList
+  64:          1222          48880  com.alibaba.dubbo.remoting.buffer.DynamicChannelBuffer
+  65:          1222          48880  com.alibaba.dubbo.remoting.exchange.Response
+  66:          1222          48880  org.jboss.netty.buffer.TruncatedChannelBuffer
+  67:          1222          48880  org.jboss.netty.channel.DefaultChannelFuture
+  68:          1437          45984  java.lang.ref.WeakReference
+  69:          1237          39584  java.lang.ThreadLocal$ThreadLocalMap$Entry
+  70:          1233          39456  java.net.InetAddress$InetAddressHolder
+  71:          1223          39136  com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable
+  72:          1222          39104  com.alibaba.com.caucho.hessian.util.IdentityIntMap
+  73:          1222          39104  com.alibaba.dubbo.remoting.exchange.Request
+  74:          1222          39104  org.jboss.netty.channel.socket.nio.SocketSendBufferPool$PooledSendBuffer
+  75:           526          37872  java.lang.reflect.Field
+  76:          1471          35304  javassist.bytecode.Utf8Info
+  77:           796          31840  java.util.TreeMap$Entry
+  78:           394          31520  java.lang.reflect.Constructor
+  79:          1235          29640  java.net.InetSocketAddress$InetSocketAddressHolder
+  80:          1233          29592  java.net.Inet4Address
+  81:          1225          29400  [Ljava.net.InetAddress;
+  82:          1222          29328  com.alibaba.dubbo.remoting.buffer.ChannelBufferInputStream
+  83:          1222          29328  com.alibaba.dubbo.remoting.buffer.ChannelBufferOutputStream
+  84:          1222          29328  com.alibaba.dubbo.rpc.RpcResult
+  85:          1222          29328  org.jboss.netty.channel.DefaultWriteCompletionEvent
+  86:          1599          25584  java.lang.Integer
+  87:           675          21600  java.util.concurrent.locks.AbstractQueuedSynchronizer$Node
+  88:           892          21408  java.beans.MethodRef
+  89:            99          19800  com.sun.org.apache.xerces.internal.impl.dv.xs.XSSimpleTypeDecl
+  90:          1235          19760  java.net.InetSocketAddress
+  91:          1235          19760  java.util.Collections$UnmodifiableMap$UnmodifiableEntrySet
+  92:          1222          19552  com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectInput
+  93:          1222          19552  com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput
+  94:          1222          19552  com.alibaba.dubbo.remoting.exchange.support.MultiMessage
+  95:           328          18368  java.beans.MethodDescriptor
+  96:           328          18368  java.util.LinkedHashMap
+  97:           208          18224  [S
+  98:           291          18112  [Ljava.lang.reflect.Method;
+  99:            33          17424  [Ljavassist.bytecode.ConstInfo;
+ 100:           302          16912  java.lang.Class$ReflectionData
+ 101:           203          16240  [Ljava.lang.ThreadLocal$ThreadLocalMap$Entry;
+ 102:           358          14208  [Ljava.security.ProtectionDomain;
+ 103:           132          13328  [Ljava.lang.StackTraceElement;
+ 104:           405          12960  java.util.Hashtable$Entry
+ 105:           128          12288  org.springframework.beans.GenericTypeAwarePropertyDescriptor
+ 106:           306          12240  javassist.bytecode.MethodInfo
+ 107:           179          11456  java.net.URL
+ 108:           154          11088  java.beans.PropertyDescriptor
+ 109:           446          10704  javassist.bytecode.NameAndTypeInfo
+ 110:           265          10600  javassist.bytecode.CodeAttribute
+ 111:           183          10248  java.lang.Package
+ 112:           182          10192  java.lang.invoke.MemberName
+ 113:           208           9984  java.util.concurrent.ThreadPoolExecutor$Worker
+ 114:           408           9792  javassist.bytecode.MethodrefInfo
+ 115:           104           8512  [Ljava.util.WeakHashMap$Entry;
+ 116:           196           7840  java.security.AccessControlContext
+ 117:           273           6552  java.util.jar.Attributes$Name
+ 118:           265           6360  javassist.bytecode.ExceptionTable
+ 119:           265           6360  javassist.bytecode.LineNumberAttribute
+ 120:            66           6336  java.util.jar.JarFile$JarFileEntry
+ 121:           255           6120  javassist.bytecode.ClassInfo
+ 122:           187           5984  java.lang.invoke.LambdaForm$Name
+ 123:            99           5880  [Ljava.lang.ref.SoftReference;
+ 124:           105           5880  sun.nio.cs.UTF_8$Encoder
+ 125:            38           5600  [Ljava.util.Hashtable$Entry;
+ 126:           227           5576  [Ljava.lang.reflect.Constructor;
+ 127:           166           5312  java.lang.ref.ReferenceQueue
+ 128:           158           5056  java.lang.invoke.MethodType$ConcurrentWeakInternSet$WeakEntry
+ 129:           104           4992  java.util.WeakHashMap
+ 130:           203           4872  java.lang.ThreadLocal$ThreadLocalMap
+ 131:           118           4720  java.lang.invoke.MethodType
+ 132:           192           4608  com.sun.org.apache.xerces.internal.util.SymbolHash$Entry
+ 133:            92           4416  java.util.zip.Inflater
+ 134:           181           4344  sun.reflect.NativeMethodAccessorImpl
+ 135:            67           4288  java.util.jar.JarFile
+ 136:           133           4256  java.util.ArrayList$Itr
+ 137:           256           4096  java.lang.Byte
+ 138:           256           4096  java.lang.Short
+ 139:           166           3984  java.util.regex.Pattern$5
+ 140:           164           3936  java.util.regex.Pattern$1
+ 141:           164           3936  org.apache.log4j.CategoryKey
+ 142:            98           3920  org.apache.log4j.Logger
+ 143:           158           3792  javassist.bytecode.StringInfo
+ 144:            79           3792  sun.misc.URLClassPath$JarLoader
+ 145:           143           3432  java.lang.Class$AnnotationData
+ 146:            99           3168  java.util.regex.Pattern$Curly
+ 147:            44           3168  org.apache.log4j.spi.LoggingEvent
+ 148:            98           3136  java.util.concurrent.locks.ReentrantLock$NonfairSync
+ 149:            65           3120  java.lang.invoke.LambdaForm
+ 150:           130           3120  sun.reflect.annotation.AnnotationInvocationHandler
+ 151:            70           3080  [Ljava.lang.invoke.LambdaForm$Name;
+ 152:            59           3056  [Ljava.lang.reflect.Field;
+ 153:           126           3024  sun.reflect.generics.tree.SimpleClassTypeSignature
+ 154:            94           3008  java.util.zip.ZipCoder
+ 155:           184           2944  sun.reflect.DelegatingMethodAccessorImpl
+ 156:            40           2880  java.util.regex.Pattern
+ 157:            47           2752  [Lcom.sun.org.apache.xerces.internal.util.SymbolHash$Entry;
+ 158:            22           2752  [Ljava.lang.invoke.MethodHandle;
+ 159:            49           2744  java.lang.invoke.MethodTypeForm
+ 160:            42           2688  java.io.LineNumberReader
+ 161:           168           2688  java.lang.ref.ReferenceQueue$Lock
+ 162:            46           2576  java.util.concurrent.ConcurrentHashMap$EntryIterator
+ 163:           107           2568  java.util.regex.Pattern$GroupHead
+ 164:           107           2568  java.util.regex.Pattern$GroupTail
+ 165:            64           2560  java.io.ObjectStreamField
+ 166:           105           2520  sun.reflect.NativeConstructorAccessorImpl
+ 167:           115           2408  [Ljava.lang.reflect.Type;
+ 168:            74           2368  java.util.LinkedList
+ 169:            42           2352  java.util.concurrent.ConcurrentHashMap$ValueIterator
+ 170:           126           2296  [Lsun.reflect.generics.tree.TypeArgument;
+ 171:            94           2256  java.io.ExpiringCache$Entry
+ 172:            94           2256  java.util.ArrayDeque
+ 173:            70           2240  java.lang.invoke.DirectMethodHandle
+ 174:            92           2208  java.util.zip.ZStreamRef
+ 175:            90           2160  java.util.regex.Pattern$BitClass
+ 176:            27           2160  sun.net.www.protocol.jar.URLJarFile
+ 177:            11           2152  [Ljava.beans.MethodDescriptor;
+ 178:            66           2112  org.apache.log4j.ProvisionNode
+ 179:            44           2112  sun.util.locale.LocaleObjectCache$CacheEntry
+ 180:            86           2064  java.util.LinkedList$Node
+ 181:            48           2048  [Lorg.springframework.util.ConcurrentReferenceHashMap$Reference;
+ 182:           128           2048  java.lang.Character
+ 183:            51           2040  java.util.WeakHashMap$Entry
+ 184:            83           1992  java.lang.invoke.LambdaForm$NamedFunction
+ 185:           122           1952  sun.reflect.generics.tree.ClassTypeSignature
+ 186:            48           1920  org.springframework.util.ConcurrentReferenceHashMap$Segment
+ 187:             4           1872  [Ljava.lang.Thread;
+ 188:            76           1824  javassist.bytecode.StackMapTable
+ 189:           110           1760  sun.reflect.DelegatingConstructorAccessorImpl
+ 190:            43           1720  java.io.PrintWriter
+ 191:            43           1720  java.util.IdentityHashMap
+ 192:            42           1680  com.alibaba.dubbo.rpc.RpcException
+ 193:            42           1680  java.io.StringReader
+ 194:           105           1680  java.util.HashSet
+ 195:            67           1608  java.util.regex.Pattern$Single
+ 196:            28           1568  org.springframework.beans.PropertyValue
+ 197:             1           1544  [[B
+ 198:            24           1536  com.alibaba.dubbo.common.extension.ExtensionLoader
+ 199:            32           1536  com.sun.org.apache.xerces.internal.impl.dv.xs.DecimalDV$XDecimal
+ 200:            48           1536  com.sun.org.apache.xerces.internal.impl.xs.traversers.OneAttr
+ 201:            24           1536  javassist.CtClassType
+ 202:            38           1520  javassist.bytecode.FieldInfo
+ 203:            47           1504  com.sun.org.apache.xerces.internal.util.SymbolHash
+ 204:            45           1440  java.lang.Throwable
+ 205:            45           1440  org.apache.log4j.spi.LocationInfo
+ 206:            59           1416  javassist.bytecode.InterfaceMethodrefInfo
+ 207:            88           1408  com.alibaba.dubbo.common.utils.Holder
+ 208:            35           1400  java.security.ProtectionDomain
+ 209:            42           1344  com.alibaba.dubbo.rpc.RpcInvocation
+ 210:            28           1344  java.util.Hashtable
+ 211:            56           1344  javassist.bytecode.FieldrefInfo
+ 212:             9           1296  org.springframework.beans.factory.support.RootBeanDefinition
+ 213:            41           1264  [Lcom.sun.org.apache.xerces.internal.impl.xs.traversers.OneAttr;
+ 214:            39           1248  java.util.Vector
+ 215:            38           1216  java.security.CodeSource
+ 216:            50           1200  java.util.concurrent.ConcurrentHashMap$MapEntry
+ 217:            48           1152  org.springframework.util.ConcurrentReferenceHashMap$ReferenceManager
+ 218:            68           1088  com.alibaba.dubbo.common.logger.log4j.Log4jLogger
+ 219:            68           1088  com.alibaba.dubbo.common.logger.support.FailsafeLogger
+ 220:            17           1088  javassist.bytecode.ClassFile
+ 221:             2           1064  [Ljava.lang.Integer;
+ 222:            52           1048  [Lsun.reflect.generics.tree.FieldTypeSignature;
+ 223:             1           1040  [Ljava.lang.Byte;
+ 224:             1           1040  [Ljava.lang.Long;
+ 225:             1           1040  [Ljava.lang.Short;
+ 226:             1           1040  [[C
+ 227:            43           1032  java.io.StringWriter
+ 228:            43           1032  java.util.Collections$SetFromMap
+ 229:            43           1032  sun.reflect.generics.factory.CoreReflectionFactory
+ 230:            64           1024  java.util.HashMap$KeySet
+ 231:            32           1024  javassist.bytecode.ExceptionTableEntry
+ 232:            42           1008  org.apache.log4j.spi.ThrowableInformation
+ 233:            42           1008  sun.security.action.GetPropertyAction
+ 234:            31            992  java.util.regex.Pattern$Branch
+ 235:            41            984  java.util.Collections$UnmodifiableCollection$1
+ 236:            40            960  java.util.regex.Pattern$Ctype
+ 237:            24            960  sun.reflect.generics.repository.MethodRepository
+ 238:            11            928  [Ljava.beans.PropertyDescriptor;
+ 239:            38            912  java.util.regex.Pattern$Slice
+ 240:            38            912  javassist.bytecode.SignatureAttribute
+ 241:            36            864  com.sun.org.apache.xerces.internal.impl.xs.traversers.SmallContainer
+ 242:            18            864  org.springframework.util.ConcurrentReferenceHashMap$SoftEntryReference
+ 243:            12            864  sun.reflect.DelegatingClassLoader
+ 244:            31            840  [Ljava.util.regex.Pattern$Node;
+ 245:            21            840  sun.util.locale.BaseLocale$Key
+ 246:            17            816  [[Ljavassist.bytecode.ConstInfo;
+ 247:            34            816  sun.reflect.generics.reflectiveObjects.ParameterizedTypeImpl
+ 248:            33            792  java.util.regex.Pattern$Start
+ 249:            14            784  java.util.ResourceBundle$CacheKey
+ 250:            14            784  org.springframework.core.MethodParameter
+ 251:            44            768  [Lsun.reflect.generics.tree.FormalTypeParameter;
+ 252:            32            768  org.springframework.core.convert.converter.GenericConverter$ConvertiblePair
+ 253:            24            768  sun.reflect.generics.tree.MethodTypeSignature
+ 254:            22            704  java.io.File
+ 255:            29            696  org.apache.commons.logging.impl.Log4JLogger
+ 256:            42            672  java.lang.Throwable$WrappedPrintWriter
+ 257:            42            672  java.util.IdentityHashMap$KeySet
+ 258:            21            672  java.util.Locale
+ 259:            14            672  java.util.ResourceBundle$BundleReference
+ 260:            21            672  sun.util.locale.BaseLocale
+ 261:            41            656  java.util.Collections$UnmodifiableCollection
+ 262:            27            648  java.lang.ProcessEnvironment$Value
+ 263:            27            648  java.lang.ProcessEnvironment$Variable
+ 264:            20            640  java.io.FilePermission
+ 265:            20            640  java.security.Permissions
+ 266:            16            640  org.jboss.netty.util.internal.ConcurrentHashMap$Segment
+ 267:            20            640  sun.reflect.generics.repository.ClassRepository
+ 268:             3            624  [Ljava.lang.invoke.LambdaForm;
+ 269:            19            608  java.security.BasicPermissionCollection
+ 270:            18            592  [Ljava.io.ObjectStreamField;
+ 271:            32            576  [Ljava.lang.reflect.TypeVariable;
+ 272:            12            576  java.util.logging.LogManager$LoggerWeakRef
+ 273:            18            576  org.springframework.core.convert.TypeDescriptor
+ 274:             4            576  sun.reflect.MethodAccessorGenerator
+ 275:            24            576  sun.reflect.generics.scope.MethodScope
+ 276:            35            560  [Ljava.security.Principal;
+ 277:            35            560  java.security.ProtectionDomain$Key
+ 278:            35            560  java.util.concurrent.atomic.AtomicInteger
+ 279:            14            560  java.util.regex.Pattern$Loop
+ 280:            14            560  org.springframework.core.convert.Property
+ 281:            10            560  sun.invoke.util.Wrapper
+ 282:            34            544  java.util.concurrent.locks.ReentrantLock
+ 283:            17            544  javassist.bytecode.ConstPool
+ 284:             1            528  [Ljava.lang.Character;
+ 285:            11            528  java.beans.BeanDescriptor
+ 286:            22            528  java.lang.RuntimePermission
+ 287:            22            528  java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject
+ 288:            32            512  com.alibaba.com.caucho.hessian.io.BasicDeserializer
+ 289:            32            512  com.sun.proxy.$Proxy3
+ 290:            32            512  org.springframework.core.convert.support.GenericConversionService$ConvertersForPair
+ 291:            16            512  sun.reflect.ClassFileAssembler
+ 292:            21            504  java.util.Locale$LocaleKey
+ 293:            21            504  java.util.jar.Manifest
+ 294:            21            504  javassist.bytecode.ExceptionsAttribute
+ 295:            21            504  javassist.bytecode.LocalVariableAttribute
+ 296:            21            504  sun.reflect.generics.scope.ClassScope
+ 297:            31            496  java.util.regex.Pattern$BranchConn
+ 298:            30            480  com.alibaba.com.caucho.hessian.io.BasicSerializer
+ 299:             3            480  com.sun.org.apache.xerces.internal.impl.xs.SchemaGrammar$BuiltinSchemaGrammar
+ 300:            30            480  com.sun.proxy.$Proxy5
+ 301:            20            480  java.io.FilePermissionCollection
+ 302:            12            480  java.lang.invoke.MethodHandleImpl$IntrinsicMethodHandle
+ 303:            30            480  java.util.LinkedHashMap$LinkedKeySet
+ 304:            20            480  sun.reflect.generics.tree.ClassSignature
+ 305:            24            472  [Lsun.reflect.generics.tree.TypeSignature;
+ 306:            20            464  [Lsun.reflect.generics.tree.ClassTypeSignature;
+ 307:            14            448  java.util.ResourceBundle$LoaderReference
+ 308:            14            448  java.util.logging.LogManager$LogNode
+ 309:            11            440  java.beans.GenericBeanInfo
+ 310:            18            432  java.text.DateFormat$Field
+ 311:             9            432  java.util.Properties
+ 312:             6            432  java.util.concurrent.ThreadPoolExecutor
+ 313:             9            432  javassist.CtPrimitiveType
+ 314:            18            432  org.springframework.util.ConcurrentReferenceHashMap$Entry
+ 315:             4            416  com.sun.org.apache.xerces.internal.impl.dv.xs.AbstractDateTimeDV$DateTimeData
+ 316:            17            408  javassist.bytecode.LongVector
+ 317:            17            408  javassist.bytecode.SourceFileAttribute
+ 318:             5            400  [Ljava.util.concurrent.RunnableScheduledFuture;
+ 319:            10            400  com.sun.org.apache.xerces.internal.impl.xpath.regex.RangeToken
+ 320:             5            400  java.util.concurrent.ScheduledThreadPoolExecutor
+ 321:            16            384  [Lorg.jboss.netty.util.internal.ConcurrentHashMap$HashEntry;
+ 322:            16            384  com.alibaba.dubbo.rpc.protocol.ProtocolFilterWrapper$1
+ 323:            24            384  com.sun.proxy.$Proxy1
+ 324:            12            384  java.lang.invoke.SimpleMethodHandle
+ 325:             1            384  java.lang.ref.Finalizer$FinalizerThread
+ 326:             1            384  java.util.logging.LogManager$Cleaner
+ 327:            16            384  sun.misc.MetaIndex
+ 328:            16            384  sun.reflect.ByteVectorImpl
+ 329:             1            376  java.lang.ref.Reference$ReferenceHandler
+ 330:            23            368  java.util.jar.Attributes
+ 331:             9            360  com.sun.org.apache.xerces.internal.utils.XMLSecurityManager$Limit
+ 332:             5            360  java.util.logging.Logger
+ 333:            15            360  java.util.regex.Pattern$Prolog
+ 334:             5            360  org.jboss.netty.channel.socket.nio.NioWorker
+ 335:            18            352  [Ljava.lang.annotation.Annotation;
+ 336:            11            352  com.alibaba.dubbo.common.utils.NamedThreadFactory
+ 337:            11            352  sun.reflect.UnsafeStaticObjectFieldAccessorImpl
+ 338:            11            352  sun.reflect.generics.reflectiveObjects.TypeVariableImpl
+ 339:            14            336  java.lang.invoke.LambdaFormEditor$Transform$Kind
+ 340:             6            336  java.nio.DirectLongBufferU
+ 341:            14            336  java.util.concurrent.atomic.AtomicLong
+ 342:            14            336  org.springframework.beans.BeanWrapperImpl$PropertyTokenHolder
+ 343:            10            320  java.lang.OutOfMemoryError
+ 344:             6            312  [Lcom.sun.org.apache.xerces.internal.impl.xs.util.SimpleLocator;
+ 345:            13            312  org.apache.log4j.Level
+ 346:            13            312  org.springframework.core.convert.support.GenericConversionService$ConverterAdapter
+ 347:             4            296  [Lsun.invoke.util.Wrapper;
+ 348:             8            288  [Ljava.lang.Boolean;
+ 349:            12            288  com.sun.org.apache.xerces.internal.impl.xpath.regex.Token$CharToken
+ 350:            12            288  java.lang.invoke.Invokers
+ 351:             4            288  java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask
+ 352:             9            288  java.util.logging.Level
+ 353:             9            288  jdk.internal.org.objectweb.asm.Type
+ 354:            12            288  sun.reflect.Label$PatchInfo
+ 355:             6            288  sun.util.locale.provider.LocaleResources$ResourceReference
+ 356:             1            280  com.alibaba.dubbo.config.ProviderConfig
+ 357:             7            280  sun.misc.Cleaner
+ 358:            17            272  com.sun.proxy.$Proxy2
+ 359:            17            272  java.util.LinkedHashSet
+ 360:            11            264  javassist.bytecode.ConstantAttribute
+ 361:            11            264  sun.reflect.generics.tree.FormalTypeParameter
+ 362:             4            256  [Lcom.sun.org.apache.xerces.internal.impl.xs.XSElementDecl;
+ 363:             8            256  java.io.FileInputStream
+ 364:             8            256  java.lang.StringCoding$StringEncoder
+ 365:             8            256  sun.misc.ProxyGenerator$PrimitiveTypeInfo
+ 366:             8            256  sun.reflect.generics.reflectiveObjects.WildcardTypeImpl
+ 367:             3            240  [Lcom.sun.org.apache.xerces.internal.impl.xs.XSComplexTypeDecl;
+ 368:             3            240  [Lorg.springframework.util.ConcurrentReferenceHashMap$Segment;
+ 369:            10            240  com.sun.org.apache.xerces.internal.impl.XMLScanner$NameType
+ 370:            15            240  com.sun.proxy.$Proxy4
+ 371:            10            240  java.security.CryptoPrimitive
+ 372:             5            240  java.util.concurrent.locks.ReentrantReadWriteLock$NonfairSync
+ 373:             3            240  java.util.zip.ZipEntry
+ 374:            10            240  org.jboss.netty.util.internal.LinkedTransferQueue
+ 375:            10            240  org.springframework.beans.MutablePropertyValues
+ 376:            10            240  org.springframework.beans.factory.config.ConstructorArgumentValues
+ 377:             6            240  sun.nio.cs.UTF_8$Decoder
+ 378:             1            232  com.alibaba.dubbo.config.spring.ServiceBean
+ 379:             7            224  java.lang.reflect.Proxy$Key1
+ 380:             7            224  java.lang.reflect.WeakCache$CacheValue
+ 381:             7            224  java.nio.DirectByteBuffer$Deallocator
+ 382:             7            224  org.apache.log4j.helpers.PatternParser$LiteralPatternConverter
+ 383:             7            224  sun.reflect.annotation.AnnotationType
+ 384:             9            216  java.util.concurrent.ConcurrentHashMap$KeySetView
+ 385:             9            216  java.util.logging.Level$KnownLevel
+ 386:             9            216  java.util.regex.Pattern$CharProperty$1
+ 387:             9            216  sun.util.logging.PlatformLogger$Level
+ 388:             2            200  [Ljava.text.DateFormat$Field;
+ 389:             1            200  org.springframework.beans.factory.support.DefaultListableBeanFactory
+ 390:            12            192  com.alibaba.dubbo.common.utils.ConcurrentHashSet
+ 391:            12            192  com.alibaba.dubbo.remoting.transport.netty.NettyHelper$DubboLogger
+ 392:             6            192  com.sun.org.apache.xerces.internal.impl.xpath.regex.Token$ClosureToken
+ 393:             4            192  com.sun.org.apache.xerces.internal.impl.xs.SchemaGrammar$BuiltinAttrDecl
+ 394:            12            192  com.sun.proxy.$Proxy6
+ 395:             8            192  java.lang.Class$MethodArray
+ 396:             6            192  java.lang.invoke.LambdaForm$BasicType
+ 397:             8            192  java.lang.invoke.MethodHandleImpl$Intrinsic
+ 398:             8            192  java.math.RoundingMode
+ 399:             8            192  java.util.Collections$UnmodifiableRandomAccessList
+ 400:             4            192  java.util.TreeMap
+ 401:             6            192  java.util.concurrent.atomic.AtomicReferenceFieldUpdater$AtomicReferenceFieldUpdaterImpl
+ 402:            12            192  org.jboss.netty.logging.InternalLoggerFactory$1
+ 403:             8            192  sun.reflect.generics.tree.Wildcard
+ 404:            11            176  com.sun.org.apache.xerces.internal.impl.xs.util.XInt
+ 405:             2            168  [[Ljava.lang.String;
+ 406:             3            168  com.sun.org.apache.xerces.internal.impl.xs.XSDDescription
+ 407:             7            168  com.sun.org.apache.xerces.internal.util.FeatureState
+ 408:             7            168  java.util.concurrent.CopyOnWriteArrayList
+ 409:             7            168  javassist.bytecode.InnerClassesAttribute
+ 410:             7            168  javassist.bytecode.LocalVariableTypeAttribute
+ 411:             7            168  javassist.bytecode.LongInfo
+ 412:             5            160  [Ljava.lang.invoke.LambdaForm$BasicType;
+ 413:             4            160  java.lang.ClassLoader$NativeLibrary
+ 414:             4            160  java.lang.ClassNotFoundException
+ 415:             4            160  java.util.ArrayList$SubList
+ 416:             4            160  java.util.ArrayList$SubList$1
+ 417:            10            160  java.util.Formatter$Flags
+ 418:             5            160  java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue
+ 419:             4            160  org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext
+ 420:            10            160  org.springframework.beans.factory.support.MethodOverrides
+ 421:             2            160  sun.nio.ch.KQueueSelectorImpl
+ 422:             4            160  sun.reflect.UnsafeQualifiedStaticIntegerFieldAccessorImpl
+ 423:             5            160  sun.util.locale.provider.LocaleProviderAdapter$Type
+ 424:             6            144  com.sun.org.apache.xerces.internal.util.Status
+ 425:             6            144  java.net.URLClassLoader$1
+ 426:             3            144  java.util.concurrent.LinkedBlockingQueue
+ 427:             9            144  java.util.concurrent.atomic.AtomicBoolean
+ 428:             6            144  java.util.regex.Pattern$Dollar
+ 429:             6            144  javassist.bytecode.IntegerInfo
+ 430:             6            144  sun.misc.PerfCounter
+ 431:             3            144  sun.misc.URLClassPath
+ 432:             3            144  sun.nio.cs.StreamEncoder
+ 433:             6            144  sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraint$Operator
+ 434:             1            136  [Lcom.sun.org.apache.xerces.internal.impl.dv.xs.TypeValidator;
+ 435:             1            128  com.alibaba.dubbo.config.ProtocolConfig
+ 436:             2            128  com.sun.org.apache.xerces.internal.impl.xpath.regex.RegularExpression
+ 437:             2            128  java.io.ExpiringCache$1
+ 438:             4            128  java.io.FileOutputStream
+ 439:             4            128  java.util.Stack
+ 440:             4            128  java.util.concurrent.SynchronousQueue
+ 441:             8            128  sun.reflect.Label
+ 442:             4            128  sun.reflect.MethodAccessorGenerator$1
+ 443:             3            120  [Ljava.lang.invoke.BoundMethodHandle$SpeciesData;
+ 444:             4            120  [Ljava.lang.invoke.LambdaForm$NamedFunction;
+ 445:             5            120  com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable$ChannelState
+ 446:             5            120  com.sun.org.apache.xerces.internal.impl.xs.traversers.LargeContainer
+ 447:             5            120  com.sun.org.apache.xerces.internal.util.PropertyState
+ 448:             5            120  com.sun.org.apache.xerces.internal.utils.XMLSecurityManager$State
+ 449:             5            120  com.sun.org.apache.xerces.internal.utils.XMLSecurityPropertyManager$State
+ 450:             5            120  java.lang.Class$1
+ 451:             5            120  java.util.Arrays$ArrayList
+ 452:             5            120  java.util.Collections$SynchronizedSet
+ 453:             5            120  java.util.concurrent.locks.ReentrantReadWriteLock
+ 454:             5            120  javassist.bytecode.stackmap.TypeData$BasicType
+ 455:             1            120  org.apache.log4j.RollingCalendar
+ 456:             1            120  org.jboss.netty.channel.socket.nio.NioAcceptedSocketChannel
+ 457:             5            120  org.jboss.netty.channel.socket.nio.SocketSendBufferPool
+ 458:             5            120  org.jboss.netty.channel.socket.nio.SocketSendBufferPool$Preallocation
+ 459:             1            120  org.springframework.context.support.ClassPathXmlApplicationContext
+ 460:             3            120  org.springframework.util.ConcurrentReferenceHashMap
+ 461:             2            112  [Ljava.security.CryptoPrimitive;
+ 462:             1            112  com.alibaba.dubbo.registry.multicast.MulticastRegistry
+ 463:             7            112  java.lang.ThreadLocal
+ 464:             2            112  java.lang.invoke.LambdaFormEditor$Transform
+ 465:             1            112  java.net.SocksSocketImpl
+ 466:             7            112  javassist.bytecode.ConstInfoPadding
+ 467:             7            112  org.springframework.expression.common.LiteralExpression
+ 468:             1            112  sun.nio.ch.SocketChannelImpl
+ 469:             1            104  com.alibaba.dubbo.config.RegistryConfig
+ 470:             1            104  org.springframework.beans.factory.support.GenericBeanDefinition
+ 471:             1             96  [Lcom.sun.org.apache.xerces.internal.impl.xpath.regex.RegularExpression;
+ 472:             1             96  [Ljava.lang.invoke.MethodType;
+ 473:             6             96  com.alibaba.com.caucho.hessian.io.JavaDeserializer$IntFieldDeserializer
+ 474:             4             96  com.alibaba.dubbo.common.status.Status$Level
+ 475:             4             96  com.sun.org.apache.xerces.internal.impl.xpath.regex.Token$ParenToken
+ 476:             4             96  com.sun.org.apache.xerces.internal.impl.xpath.regex.Token$UnionToken
+ 477:             3             96  com.sun.org.apache.xerces.internal.utils.XMLSecurityManager$NameMap
+ 478:             3             96  java.lang.StringCoding$StringDecoder
+ 479:             2             96  java.lang.ThreadGroup
+ 480:             3             96  java.lang.invoke.BoundMethodHandle$Species_L
+ 481:             4             96  java.util.concurrent.Executors$RunnableAdapter
+ 482:             4             96  java.util.regex.Pattern$7
+ 483:             3             96  java.util.regex.Pattern$BnM
+ 484:             6             96  java.util.regex.Pattern$Dot
+ 485:             4             96  javassist.CtArray
+ 486:             1             96  org.apache.log4j.DailyRollingFileAppender
+ 487:             3             96  org.apache.log4j.helpers.PatternParser$BasicPatternConverter
+ 488:             2             96  org.jboss.netty.channel.AbstractChannel$ChannelCloseFuture
+ 489:             4             96  org.jboss.netty.channel.ChannelState
+ 490:             4             96  org.springframework.beans.CachedIntrospectionResults
+ 491:             3             96  org.springframework.context.event.AbstractApplicationEventMulticaster$ListenerRetriever
+ 492:             4             96  org.springframework.core.convert.support.GenericConversionService$ConverterFactoryAdapter
+ 493:             4             96  org.springframework.util.ConcurrentReferenceHashMap$TaskOption
+ 494:             1             96  sun.misc.Launcher$AppClassLoader
+ 495:             3             96  sun.misc.URLClassPath$JarLoader$2
+ 496:             1             96  sun.nio.ch.ServerSocketChannelImpl
+ 497:             3             96  sun.util.locale.provider.LocaleServiceProviderPool
+ 498:             1             88  java.util.jar.JarVerifier
+ 499:             1             88  sun.misc.Launcher$ExtClassLoader
+ 500:             1             80  [Lorg.jboss.netty.util.internal.ConcurrentHashMap$Segment;
+ 501:             1             80  com.alibaba.dubbo.registry.integration.RegistryDirectory
+ 502:             2             80  java.io.BufferedWriter
+ 503:             2             80  java.io.ExpiringCache
+ 504:             2             80  java.lang.invoke.BoundMethodHandle$SpeciesData
+ 505:             2             80  java.lang.invoke.MethodHandleImpl$AsVarargsCollector
+ 506:             5             80  java.util.Collections$UnmodifiableSet
+ 507:             5             80  java.util.LinkedHashMap$LinkedEntrySet
+ 508:             5             80  java.util.LinkedHashMap$LinkedValues
+ 509:             2             80  java.util.Locale$Category
+ 510:             2             80  java.util.PropertyResourceBundle
+ 511:             5             80  java.util.concurrent.ConcurrentHashMap$EntrySetView
+ 512:             5             80  java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock
+ 513:             5             80  java.util.concurrent.locks.ReentrantReadWriteLock$Sync$ThreadLocalHoldCounter
+ 514:             5             80  java.util.concurrent.locks.ReentrantReadWriteLock$WriteLock
+ 515:             2             80  org.apache.log4j.helpers.PatternParser$LocationPatternConverter
+ 516:             5             80  org.jboss.netty.channel.socket.nio.SocketReceiveBufferPool
+ 517:             5             80  org.springframework.core.convert.support.ObjectToStringConverter
+ 518:             2             80  sun.nio.ch.KQueueArrayWrapper
+ 519:             2             80  sun.nio.ch.SelectionKeyImpl
+ 520:             5             80  sun.reflect.BootstrapConstructorAccessorImpl
+ 521:             2             80  sun.reflect.UnsafeQualifiedStaticObjectFieldAccessorImpl
+ 522:             3             72  [Lcom.sun.org.apache.xerces.internal.impl.xs.XSGroupDecl;
+ 523:             1             72  [Ljava.lang.invoke.LambdaFormEditor$Transform$Kind;
+ 524:             3             72  com.alibaba.com.caucho.hessian.io.SqlDateDeserializer
+ 525:             3             72  com.alibaba.com.caucho.hessian.io.StringValueDeserializer
+ 526:             1             72  com.alibaba.dubbo.remoting.transport.netty.NettyServer
+ 527:             3             72  java.io.OutputStreamWriter
+ 528:             3             72  java.lang.annotation.RetentionPolicy
+ 529:             1             72  java.util.ResourceBundle$RBClassLoader
+ 530:             3             72  java.util.concurrent.LinkedBlockingQueue$Node
+ 531:             3             72  java.util.concurrent.atomic.AtomicMarkableReference$Pair
+ 532:             1             72  java.util.logging.LogManager$RootLogger
+ 533:             3             72  javassist.bytecode.AnnotationsAttribute
+ 534:             3             72  javassist.bytecode.DeprecatedAttribute
+ 535:             3             72  javassist.bytecode.MethodHandleInfo
+ 536:             3             72  org.jboss.netty.channel.UpstreamChannelStateEvent
+ 537:             3             72  sun.misc.JarIndex
+ 538:             3             72  sun.misc.Signal
+ 539:             1             72  sun.util.locale.provider.JRELocaleProviderAdapter
+ 540:             3             72  sun.util.resources.ParallelListResourceBundle$KeySet
+ 541:             2             64  [Ljava.lang.annotation.RetentionPolicy;
+ 542:             2             64  [Ljava.nio.channels.SelectionKey;
+ 543:             2             64  [Lorg.springframework.util.ConcurrentReferenceHashMap$TaskOption;
+ 544:             1             64  com.alibaba.dubbo.common.utils.LRUCache
+ 545:             1             64  com.alibaba.dubbo.config.ApplicationConfig
+ 546:             2             64  com.alibaba.dubbo.rpc.proxy.javassist.JavassistProxyFactory$1
+ 547:             1             64  com.sun.org.apache.xerces.internal.impl.xs.SchemaGrammar$XSAnyType
+ 548:             2             64  com.sun.org.apache.xerces.internal.utils.XMLSecurityPropertyManager$Property
+ 549:             2             64  java.io.PrintStream
+ 550:             2             64  java.lang.ClassValue$Entry
+ 551:             2             64  java.lang.VirtualMachineError
+ 552:             2             64  java.lang.ref.ReferenceQueue$Null
+ 553:             1             64  java.net.MulticastSocket
+ 554:             2             64  java.util.Collections$SynchronizedMap
+ 555:             2             64  java.util.Random
+ 556:             4             64  java.util.concurrent.SynchronousQueue$TransferStack
+ 557:             4             64  java.util.regex.Pattern$Begin
+ 558:             2             64  org.jboss.netty.channel.DefaultChannelPipeline
+ 559:             1             64  org.jboss.netty.channel.socket.nio.NioServerSocketChannel
+ 560:             2             64  org.jboss.netty.util.internal.ConcurrentHashMap$HashEntry
+ 561:             4             64  sun.net.www.protocol.jar.Handler
+ 562:             2             64  sun.nio.ch.AllocatedNativeObject
+ 563:             4             64  sun.reflect.ClassDefiner$1
+ 564:             4             64  sun.reflect.generics.tree.TypeVariableSignature
+ 565:             2             64  sun.util.locale.provider.LocaleResources
+ 566:             1             56  [Lcom.sun.org.apache.xerces.internal.impl.XMLScanner$NameType;
+ 567:             1             56  [Lcom.sun.org.apache.xerces.internal.impl.dv.XSSimpleType;
+ 568:             1             56  [Lcom.sun.org.apache.xerces.internal.impl.xs.util.XInt;
+ 569:             1             56  [Lcom.sun.org.apache.xerces.internal.utils.XMLSecurityManager$Limit;
+ 570:             1             56  [Ljava.lang.Runnable;
+ 571:             1             56  [Ljava.text.Format;
+ 572:             1             56  [Ljavassist.CtClass;
+ 573:             1             56  [Lsun.util.logging.PlatformLogger$Level;
+ 574:             1             56  com.alibaba.dubbo.common.serialize.support.hessian.Hessian2SerializerFactory
+ 575:             1             56  java.util.concurrent.ConcurrentHashMap$KeyIterator
+ 576:             1             56  java.util.logging.LogManager
+ 577:             1             56  org.apache.commons.logging.impl.WeakHashtable
+ 578:             1             56  org.springframework.core.env.PropertySourcesPropertyResolver
+ 579:             1             56  org.springframework.expression.spel.support.StandardEvaluationContext
+ 580:             1             48  [Lcom.sun.beans.util.Cache$CacheEntry;
+ 581:             1             48  [Ljava.beans.WeakIdentityMap$Entry;
+ 582:             1             48  [Ljava.lang.invoke.MethodHandleImpl$Intrinsic;
+ 583:             1             48  [Ljava.math.RoundingMode;
+ 584:             1             48  [Ljava.util.concurrent.TimeUnit;
+ 585:             3             48  com.alibaba.com.caucho.hessian.io.JavaDeserializer$StringFieldDeserializer
+ 586:             3             48  com.alibaba.com.caucho.hessian.io.SqlDateSerializer
+ 587:             3             48  com.alibaba.com.caucho.hessian.io.StringValueSerializer
+ 588:             1             48  com.alibaba.dubbo.config.MonitorConfig
+ 589:             2             48  com.alibaba.dubbo.remoting.Codec2$DecodeResult
+ 590:             2             48  com.alibaba.dubbo.rpc.listener.ListenerExporterWrapper
+ 591:             3             48  com.alibaba.dubbo.rpc.protocol.ProtocolFilterWrapper
+ 592:             3             48  com.alibaba.dubbo.rpc.protocol.ProtocolListenerWrapper
+ 593:             1             48  com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol
+ 594:             3             48  com.sun.org.apache.xerces.internal.impl.dv.dtd.ListDatatypeValidator
+ 595:             1             48  com.sun.org.apache.xerces.internal.util.URI
+ 596:             2             48  java.io.BufferedOutputStream
+ 597:             2             48  java.io.File$PathStatus
+ 598:             2             48  java.lang.invoke.MethodHandles$Lookup
+ 599:             2             48  java.lang.reflect.ReflectPermission
+ 600:             2             48  java.net.InetAddress$Cache
+ 601:             2             48  java.net.InetAddress$Cache$Type
+ 602:             1             48  java.net.NetworkInterface
+ 603:             1             48  java.net.PlainDatagramSocketImpl
+ 604:             2             48  java.nio.charset.CoderResult
+ 605:             3             48  java.nio.charset.CodingErrorAction
+ 606:             3             48  java.text.AttributedCharacterIterator$Attribute
+ 607:             2             48  java.util.BitSet
+ 608:             3             48  java.util.HashMap$Values
+ 609:             3             48  java.util.concurrent.atomic.AtomicMarkableReference
+ 610:             2             48  java.util.logging.Logger$LoggerBundle
+ 611:             2             48  java.util.regex.Pattern$Ques
+ 612:             2             48  java.util.regex.Pattern$SliceI
+ 613:             2             48  javassist.ClassPathList
+ 614:             2             48  javassist.bytecode.InvokeDynamicInfo
+ 615:             2             48  javassist.bytecode.MethodTypeInfo
+ 616:             1             48  javassist.compiler.KeywordTable
+ 617:             1             48  org.apache.commons.logging.impl.LogFactoryImpl
+ 618:             1             48  org.apache.log4j.Hierarchy
+ 619:             1             48  org.apache.log4j.helpers.PatternParser
+ 620:             1             48  org.jboss.netty.channel.socket.nio.DefaultNioSocketChannelConfig
+ 621:             2             48  org.jboss.netty.util.ThreadRenamingRunnable
+ 622:             1             48  org.jboss.netty.util.internal.ConcurrentHashMap
+ 623:             2             48  org.jboss.netty.util.internal.DeadLockProofWorker$1
+ 624:             2             48  org.springframework.context.event.AbstractApplicationEventMulticaster$ListenerCacheKey
+ 625:             2             48  org.springframework.expression.TypedValue
+ 626:             2             48  org.springframework.util.ConcurrentReferenceHashMap$ReferenceType
+ 627:             2             48  org.springframework.util.ConcurrentReferenceHashMap$Restructure
+ 628:             2             48  sun.misc.NativeSignalHandler
+ 629:             2             48  sun.misc.URLClassPath$FileLoader
+ 630:             3             48  sun.net.www.ParseUtil
+ 631:             2             48  sun.nio.ch.KQueueSelectorImpl$MapEntry
+ 632:             1             48  sun.text.resources.FormatData
+ 633:             1             48  sun.text.resources.zh.FormatData_zh
+ 634:             1             48  sun.text.resources.zh.FormatData_zh_CN
+ 635:             1             48  sun.util.resources.CalendarData
+ 636:             1             48  sun.util.resources.CurrencyNames
+ 637:             1             48  sun.util.resources.TimeZoneNames
+ 638:             1             48  sun.util.resources.en.TimeZoneNames_en
+ 639:             1             48  sun.util.resources.zh.CalendarData_zh
+ 640:             1             48  sun.util.resources.zh.CurrencyNames_zh_CN
+ 641:             1             40  [Lcom.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable$ChannelState;
+ 642:             1             40  [Lcom.sun.org.apache.xerces.internal.util.Status;
+ 643:             1             40  [Lcom.sun.org.apache.xerces.internal.utils.XMLSecurityManager$State;
+ 644:             1             40  [Lcom.sun.org.apache.xerces.internal.utils.XMLSecurityPropertyManager$State;
+ 645:             1             40  [Lorg.jboss.netty.channel.socket.nio.NioWorker;
+ 646:             1             40  [Lsun.security.util.DisabledAlgorithmConstraints$KeySizeConstraint$Operator;
+ 647:             1             40  [Lsun.util.locale.provider.LocaleProviderAdapter$Type;
+ 648:             1             40  [[Ljava.lang.invoke.LambdaForm$Name;
+ 649:             1             40  com.alibaba.dubbo.monitor.dubbo.DubboMonitor
+ 650:             1             40  com.alibaba.dubbo.registry.integration.RegistryProtocol
+ 651:             1             40  com.alibaba.dubbo.registry.integration.RegistryProtocol$1
+ 652:             1             40  com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeServer
+ 653:             1             40  com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter
+ 654:             1             40  com.sun.beans.finder.MethodFinder$1
+ 655:             1             40  com.sun.org.apache.xerces.internal.impl.xs.XSParticleDecl
+ 656:             1             40  com.sun.xml.internal.stream.util.BufferAllocator
+ 657:             1             40  java.beans.WeakIdentityMap$Entry
+ 658:             1             40  java.io.BufferedInputStream
+ 659:             1             40  java.lang.invoke.DirectMethodHandle$Accessor
+ 660:             1             40  java.net.DatagramPacket
+ 661:             1             40  java.text.MessageFormat
+ 662:             1             40  java.util.ResourceBundle$1
+ 663:             1             40  java.util.regex.Pattern$LazyLoop
+ 664:             1             40  javassist.ClassPool
+ 665:             1             40  org.apache.log4j.helpers.PatternParser$ClassNamePatternConverter
+ 666:             1             40  org.apache.log4j.helpers.PatternParser$DatePatternConverter
+ 667:             1             40  org.apache.log4j.spi.RootLogger
+ 668:             1             40  org.springframework.beans.factory.support.DisposableBeanAdapter
+ 669:             1             40  org.springframework.context.event.SimpleApplicationEventMulticaster
+ 670:             1             40  org.springframework.context.expression.StandardBeanExpressionResolver
+ 671:             1             40  sun.nio.ch.SocketAdaptor
+ 672:             1             40  sun.nio.cs.StandardCharsets$Aliases
+ 673:             1             40  sun.nio.cs.StandardCharsets$Cache
+ 674:             1             40  sun.nio.cs.StandardCharsets$Classes
+ 675:             1             40  sun.nio.cs.ext.ExtendedCharsets
+ 676:             1             32  [Lcom.alibaba.dubbo.common.status.Status$Level;
+ 677:             1             32  [Lcom.sun.beans.util.Cache$Kind;
+ 678:             1             32  [Lcom.sun.org.apache.xerces.internal.impl.dv.xs.AbstractDateTimeDV$DateTimeData;
+ 679:             1             32  [Lcom.sun.org.apache.xerces.internal.utils.XMLSecurityManager$NameMap;
+ 680:             1             32  [Ljava.lang.OutOfMemoryError;
+ 681:             1             32  [Ljava.lang.ThreadGroup;
+ 682:             1             32  [Lorg.jboss.netty.channel.ChannelState;
+ 683:             1             32  com.alibaba.com.caucho.hessian.io.BigIntegerDeserializer
+ 684:             1             32  com.alibaba.com.caucho.hessian.io.StackTraceElementDeserializer
+ 685:             1             32  com.alibaba.dubbo.remoting.transport.netty.NettyChannel
+ 686:             1             32  com.alibaba.dubbo.rpc.protocol.dubbo.DubboExporter
+ 687:             1             32  com.alibaba.dubbo.rpc.protocol.injvm.InjvmExporter
+ 688:             2             32  com.sun.beans.WeakCache
+ 689:             1             32  com.sun.beans.finder.BeanInfoFinder
+ 690:             1             32  com.sun.org.apache.xerces.internal.impl.XMLEntityScanner$1
+ 691:             2             32  com.sun.org.apache.xerces.internal.impl.dv.dtd.ENTITYDatatypeValidator
+ 692:             2             32  com.sun.org.apache.xerces.internal.impl.dv.xs.QNameDV
+ 693:             2             32  com.sun.org.apache.xerces.internal.impl.xpath.regex.Token
+ 694:             1             32  com.sun.org.apache.xerces.internal.impl.xs.XSModelGroupImpl
+ 695:             1             32  java.beans.ThreadGroupContext
+ 696:             1             32  java.beans.ThreadGroupContext$1
+ 697:             1             32  java.io.UnixFileSystem
+ 698:             1             32  java.lang.ArithmeticException
+ 699:             1             32  java.lang.ArrayIndexOutOfBoundsException
+ 700:             2             32  java.lang.Boolean
+ 701:             1             32  java.lang.IllegalStateException
+ 702:             1             32  java.lang.NoClassDefFoundError
+ 703:             1             32  java.lang.NullPointerException
+ 704:             2             32  java.lang.Shutdown$Lock
+ 705:             1             32  java.lang.reflect.WeakCache
+ 706:             1             32  java.lang.reflect.WeakCache$CacheKey
+ 707:             2             32  java.nio.ByteOrder
+ 708:             2             32  java.nio.channels.spi.AbstractInterruptibleChannel$1
+ 709:             2             32  java.nio.channels.spi.AbstractSelector$1
+ 710:             1             32  java.text.DontCareFieldPosition
+ 711:             2             32  java.util.Hashtable$EntrySet
+ 712:             1             32  java.util.LinkedList$ListItr
+ 713:             1             32  java.util.RegularEnumSet
+ 714:             1             32  java.util.concurrent.atomic.AtomicIntegerFieldUpdater$AtomicIntegerFieldUpdaterImpl
+ 715:             1             32  java.util.logging.LogManager$SystemLoggerContext
+ 716:             1             32  org.apache.commons.logging.impl.WeakHashtable$WeakKey
+ 717:             1             32  org.apache.log4j.PatternLayout
+ 718:             1             32  org.apache.log4j.helpers.QuietWriter
+ 719:             1             32  org.jboss.netty.bootstrap.ServerBootstrap
+ 720:             1             32  org.jboss.netty.bootstrap.ServerBootstrap$Binder
+ 721:             2             32  org.jboss.netty.buffer.HeapChannelBufferFactory
+ 722:             1             32  org.jboss.netty.channel.AdaptiveReceiveBufferSizePredictor
+ 723:             2             32  org.jboss.netty.channel.SucceededChannelFuture
+ 724:             1             32  org.jboss.netty.channel.socket.DefaultServerSocketChannelConfig
+ 725:             1             32  org.jboss.netty.channel.socket.nio.NioSocketChannel$WriteRequestQueue
+ 726:             1             32  org.springframework.context.support.DefaultLifecycleProcessor
+ 727:             1             32  org.springframework.context.support.DelegatingMessageSource
+ 728:             2             32  org.springframework.core.convert.support.CollectionToArrayConverter
+ 729:             2             32  org.springframework.core.convert.support.CollectionToStringConverter
+ 730:             2             32  org.springframework.core.convert.support.GenericConversionService$NoOpConverter
+ 731:             1             32  org.springframework.core.env.MapPropertySource
+ 732:             1             32  org.springframework.core.env.StandardEnvironment
+ 733:             1             32  org.springframework.core.env.SystemEnvironmentPropertySource
+ 734:             1             32  org.springframework.util.PropertyPlaceholderHelper
+ 735:             1             32  sun.nio.ch.ServerSocketAdaptor
+ 736:             2             32  sun.nio.ch.SocketDispatcher
+ 737:             2             32  sun.nio.ch.Util$3
+ 738:             1             32  sun.nio.cs.StandardCharsets
+ 739:             1             24  [Lcom.alibaba.dubbo.remoting.Codec2$DecodeResult;
+ 740:             1             24  [Lcom.sun.org.apache.xerces.internal.utils.XMLSecurityPropertyManager$Property;
+ 741:             1             24  [Ljava.io.File$PathStatus;
+ 742:             1             24  [Ljava.lang.ClassValue$Entry;
+ 743:             1             24  [Ljava.net.InetAddress$Cache$Type;
+ 744:             1             24  [Ljava.net.InterfaceAddress;
+ 745:             1             24  [Ljava.util.Locale$Category;
+ 746:             1             24  [Lorg.springframework.util.ConcurrentReferenceHashMap$ReferenceType;
+ 747:             1             24  [Lorg.springframework.util.ConcurrentReferenceHashMap$Restructure;
+ 748:             1             24  [Lsun.launcher.LauncherHelper;
+ 749:             1             24  com.alibaba.com.caucho.hessian.io.MapDeserializer
+ 750:             1             24  com.alibaba.dubbo.common.threadpool.support.AbortPolicyWithReport
+ 751:             1             24  com.alibaba.dubbo.monitor.dubbo.DubboMonitorFactroy
+ 752:             1             24  com.alibaba.dubbo.monitor.support.MonitorFilter
+ 753:             1             24  com.alibaba.dubbo.registry.integration.RegistryProtocol$ExporterChangeableWrapper
+ 754:             1             24  com.alibaba.dubbo.registry.integration.RegistryProtocol$InvokerDelegete
+ 755:             1             24  com.alibaba.dubbo.registry.integration.RegistryProtocol$OverrideListener
+ 756:             1             24  com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeChannel
+ 757:             1             24  com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask
+ 758:             1             24  com.alibaba.dubbo.remoting.transport.dispatcher.all.AllChannelHandler
+ 759:             1             24  com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalDecoder
+ 760:             1             24  com.alibaba.dubbo.remoting.transport.netty.NettyHandler
+ 761:             1             24  com.alibaba.dubbo.remoting.transport.netty.NettyServer$1
+ 762:             1             24  com.alibaba.dubbo.rpc.cluster.support.FailoverClusterInvoker
+ 763:             1             24  com.alibaba.dubbo.rpc.cluster.support.wrapper.MockClusterInvoker
+ 764:             1             24  com.alibaba.dubbo.rpc.filter.AccessLogFilter
+ 765:             1             24  com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1
+ 766:             1             24  com.alibaba.dubbo.rpc.protocol.injvm.InjvmProtocol
+ 767:             1             24  com.alibaba.dubbo.rpc.proxy.wrapper.StubProxyFactoryWrapper
+ 768:             1             24  com.sun.beans.util.Cache$Kind$1
+ 769:             1             24  com.sun.beans.util.Cache$Kind$2
+ 770:             1             24  com.sun.beans.util.Cache$Kind$3
+ 771:             1             24  com.sun.org.apache.xerces.internal.impl.Constants$ArrayEnumeration
+ 772:             1             24  com.sun.org.apache.xerces.internal.impl.xs.util.ShortListImpl
+ 773:             1             24  com.sun.org.apache.xerces.internal.impl.xs.util.XSObjectListImpl
+ 774:             1             24  java.io.ByteArrayOutputStream
+ 775:             1             24  java.lang.ClassValue$Version
+ 776:             1             24  java.lang.Double
+ 777:             1             24  java.lang.ProcessEnvironment$StringEnvironment
+ 778:             1             24  java.lang.invoke.MethodHandleImpl$4
+ 779:             1             24  java.lang.invoke.MethodType$ConcurrentWeakInternSet
+ 780:             1             24  java.net.Inet4AddressImpl
+ 781:             1             24  java.net.InetAddress$CacheEntry
+ 782:             1             24  java.net.InterfaceAddress
+ 783:             1             24  java.util.Collections$EmptyMap
+ 784:             1             24  java.util.Currency
+ 785:             1             24  java.util.Locale$Cache
+ 786:             1             24  java.util.ResourceBundle$Control$CandidateListCache
+ 787:             1             24  java.util.concurrent.TimeUnit$1
+ 788:             1             24  java.util.concurrent.TimeUnit$2
+ 789:             1             24  java.util.concurrent.TimeUnit$3
+ 790:             1             24  java.util.concurrent.TimeUnit$4
+ 791:             1             24  java.util.concurrent.TimeUnit$5
+ 792:             1             24  java.util.concurrent.TimeUnit$6
+ 793:             1             24  java.util.concurrent.TimeUnit$7
+ 794:             1             24  java.util.logging.LogManager$LoggerContext
+ 795:             1             24  java.util.logging.LoggingPermission
+ 796:             1             24  javassist.bytecode.BootstrapMethodsAttribute
+ 797:             1             24  org.apache.commons.logging.impl.WeakHashtable$Referenced
+ 798:             1             24  org.apache.log4j.helpers.FormattingInfo
+ 799:             1             24  org.apache.log4j.helpers.ISO8601DateFormat
+ 800:             1             24  org.apache.log4j.helpers.OnlyOnceErrorHandler
+ 801:             1             24  org.jboss.netty.channel.AdaptiveReceiveBufferSizePredictorFactory
+ 802:             1             24  org.jboss.netty.channel.DefaultChildChannelStateEvent
+ 803:             1             24  org.jboss.netty.channel.socket.nio.NioServerSocketChannelFactory
+ 804:             1             24  org.jboss.netty.channel.socket.nio.NioServerSocketPipelineSink
+ 805:             1             24  org.jboss.netty.channel.socket.nio.NioServerSocketPipelineSink$Boss
+ 806:             1             24  org.jboss.netty.util.internal.ThreadLocalBoolean
+ 807:             1             24  org.springframework.beans.factory.annotation.QualifierAnnotationAutowireCandidateResolver
+ 808:             1             24  org.springframework.beans.factory.config.BeanExpressionContext
+ 809:             1             24  org.springframework.beans.factory.config.RuntimeBeanReference
+ 810:             1             24  org.springframework.beans.support.ResourceEditorRegistrar
+ 811:             1             24  org.springframework.context.support.AbstractApplicationContext$ApplicationListenerDetector
+ 812:             1             24  org.springframework.context.support.AbstractApplicationContext$BeanPostProcessorChecker
+ 813:             1             24  org.springframework.core.Constants
+ 814:             1             24  org.springframework.core.NamedThreadLocal
+ 815:             1             24  org.springframework.core.convert.support.ArrayToArrayConverter
+ 816:             1             24  org.springframework.core.convert.support.DefaultConversionService
+ 817:             1             24  org.springframework.core.convert.support.GenericConversionService$Converters
+ 818:             1             24  org.springframework.core.env.MutablePropertySources
+ 819:             1             24  org.springframework.core.io.UrlResource
+ 820:             1             24  org.springframework.core.io.support.PathMatchingResourcePatternResolver
+ 821:             1             24  org.springframework.expression.spel.SpelParserConfiguration
+ 822:             1             24  org.springframework.expression.spel.support.ReflectivePropertyAccessor
+ 823:             1             24  org.springframework.expression.spel.support.StandardTypeLocator
+ 824:             1             24  org.springframework.util.AntPathMatcher
+ 825:             1             24  org.springframework.util.AntPathMatcher$AntPathStringMatcher
+ 826:             1             24  sun.launcher.LauncherHelper
+ 827:             1             24  sun.management.RuntimeImpl
+ 828:             1             24  sun.management.VMManagementImpl
+ 829:             1             24  sun.net.ProgressMonitor
+ 830:             1             24  sun.net.sdp.SdpProvider
+ 831:             1             24  sun.nio.cs.ISO_8859_1
+ 832:             1             24  sun.nio.cs.US_ASCII
+ 833:             1             24  sun.nio.cs.UTF_16
+ 834:             1             24  sun.nio.cs.UTF_16BE
+ 835:             1             24  sun.nio.cs.UTF_16LE
+ 836:             1             24  sun.nio.cs.UTF_8
+ 837:             1             24  sun.nio.cs.ext.GBK
+ 838:             1             24  sun.security.util.DisabledAlgorithmConstraints
+ 839:             1             24  sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraint
+ 840:             1             24  sun.util.locale.BaseLocale$Cache
+ 841:             1             24  sun.util.locale.provider.CalendarDataProviderImpl
+ 842:             1             24  sun.util.locale.provider.CalendarProviderImpl
+ 843:             1             24  sun.util.locale.provider.CurrencyNameProviderImpl
+ 844:             1             24  sun.util.locale.provider.DateFormatSymbolsProviderImpl
+ 845:             1             24  sun.util.locale.provider.DecimalFormatSymbolsProviderImpl
+ 846:             1             24  sun.util.locale.provider.NumberFormatProviderImpl
+ 847:             1             24  sun.util.locale.provider.TimeZoneNameProviderImpl
+ 848:             1             16  [D
+ 849:             1             16  [F
+ 850:             1             16  [Lcom.sun.org.apache.xerces.internal.impl.xs.SubstitutionGroupHandler$OneSubGroup;
+ 851:             1             16  [Lcom.sun.org.apache.xerces.internal.xs.XSObject;
+ 852:             1             16  [Ljava.beans.EventSetDescriptor;
+ 853:             1             16  [Ljava.lang.Enum;
+ 854:             1             16  [Ljava.lang.Throwable;
+ 855:             1             16  [Ljava.net.NetworkInterface;
+ 856:             1             16  [Ljava.security.CodeSigner;
+ 857:             1             16  [Ljava.security.cert.Certificate;
+ 858:             1             16  [Ljava.text.FieldPosition;
+ 859:             1             16  [Ljava.util.logging.Handler;
+ 860:             1             16  com.alibaba.com.caucho.hessian.io.ClassSerializer
+ 861:             1             16  com.alibaba.com.caucho.hessian.io.InputStreamDeserializer
+ 862:             1             16  com.alibaba.com.caucho.hessian.io.InputStreamSerializer
+ 863:             1             16  com.alibaba.com.caucho.hessian.io.JavaDeserializer$ObjectFieldDeserializer
+ 864:             1             16  com.alibaba.dubbo.cache.CacheFactory$Adpative
+ 865:             1             16  com.alibaba.dubbo.cache.filter.CacheFilter
+ 866:             1             16  com.alibaba.dubbo.common.bytecode.Proxy$1
+ 867:             1             16  com.alibaba.dubbo.common.bytecode.Proxy$2
+ 868:             1             16  com.alibaba.dubbo.common.bytecode.Wrapper$1
+ 869:             1             16  com.alibaba.dubbo.common.bytecode.Wrapper0
+ 870:             1             16  com.alibaba.dubbo.common.bytecode.Wrapper1
+ 871:             1             16  com.alibaba.dubbo.common.bytecode.proxy0
+ 872:             1             16  com.alibaba.dubbo.common.compiler.support.AdaptiveCompiler
+ 873:             1             16  com.alibaba.dubbo.common.compiler.support.JavassistCompiler
+ 874:             1             16  com.alibaba.dubbo.common.extension.factory.AdaptiveExtensionFactory
+ 875:             1             16  com.alibaba.dubbo.common.extension.factory.SpiExtensionFactory
+ 876:             1             16  com.alibaba.dubbo.common.extension.support.ActivateComparator
+ 877:             1             16  com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+ 878:             1             16  com.alibaba.dubbo.common.serialize.support.dubbo.DubboSerialization
+ 879:             1             16  com.alibaba.dubbo.common.serialize.support.hessian.Hessian2Serialization
+ 880:             1             16  com.alibaba.dubbo.common.serialize.support.java.CompactedJavaSerialization
+ 881:             1             16  com.alibaba.dubbo.common.serialize.support.java.JavaSerialization
+ 882:             1             16  com.alibaba.dubbo.common.serialize.support.json.FastJsonSerialization
+ 883:             1             16  com.alibaba.dubbo.common.serialize.support.json.JsonSerialization
+ 884:             1             16  com.alibaba.dubbo.common.serialize.support.nativejava.NativeJavaSerialization
+ 885:             1             16  com.alibaba.dubbo.common.store.support.SimpleDataStore
+ 886:             1             16  com.alibaba.dubbo.common.threadpool.ThreadPool$Adpative
+ 887:             1             16  com.alibaba.dubbo.common.threadpool.support.fixed.FixedThreadPool
+ 888:             1             16  com.alibaba.dubbo.common.utils.CollectionUtils$1
+ 889:             1             16  com.alibaba.dubbo.config.AbstractConfig$1
+ 890:             1             16  com.alibaba.dubbo.config.spring.extension.SpringExtensionFactory
+ 891:             1             16  com.alibaba.dubbo.container.log4j.Log4jContainer
+ 892:             1             16  com.alibaba.dubbo.container.spring.SpringContainer
+ 893:             1             16  com.alibaba.dubbo.demo.provider.DemoServiceImpl
+ 894:             1             16  com.alibaba.dubbo.monitor.MonitorFactory$Adpative
+ 895:             1             16  com.alibaba.dubbo.monitor.dubbo.DubboMonitor$1
+ 896:             1             16  com.alibaba.dubbo.registry.RegistryFactory$Adpative
+ 897:             1             16  com.alibaba.dubbo.registry.multicast.MulticastRegistry$1
+ 898:             1             16  com.alibaba.dubbo.registry.multicast.MulticastRegistry$2
+ 899:             1             16  com.alibaba.dubbo.registry.multicast.MulticastRegistryFactory
+ 900:             1             16  com.alibaba.dubbo.registry.support.FailbackRegistry$1
+ 901:             1             16  com.alibaba.dubbo.remoting.Dispatcher$Adpative
+ 902:             1             16  com.alibaba.dubbo.remoting.Transporter$Adpative
+ 903:             1             16  com.alibaba.dubbo.remoting.buffer.HeapChannelBufferFactory
+ 904:             1             16  com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler
+ 905:             1             16  com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeServer$1
+ 906:             1             16  com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchanger
+ 907:             1             16  com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler
+ 908:             1             16  com.alibaba.dubbo.remoting.telnet.support.command.StatusTelnetHandler
+ 909:             1             16  com.alibaba.dubbo.remoting.transport.DecodeHandler
+ 910:             1             16  com.alibaba.dubbo.remoting.transport.MultiMessageHandler
+ 911:             1             16  com.alibaba.dubbo.remoting.transport.dispatcher.ChannelHandlers
+ 912:             1             16  com.alibaba.dubbo.remoting.transport.dispatcher.all.AllDispatcher
+ 913:             1             16  com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder
+ 914:             1             16  com.alibaba.dubbo.remoting.transport.netty.NettyHelper$DubboLoggerFactory
+ 915:             1             16  com.alibaba.dubbo.remoting.transport.netty.NettyTransporter
+ 916:             1             16  com.alibaba.dubbo.rpc.Protocol$Adpative
+ 917:             1             16  com.alibaba.dubbo.rpc.ProxyFactory$Adpative
+ 918:             1             16  com.alibaba.dubbo.rpc.RpcContext$1
+ 919:             1             16  com.alibaba.dubbo.rpc.cluster.Cluster$Adpative
+ 920:             1             16  com.alibaba.dubbo.rpc.cluster.ConfiguratorFactory$Adpative
+ 921:             1             16  com.alibaba.dubbo.rpc.cluster.RouterFactory$Adpative
+ 922:             1             16  com.alibaba.dubbo.rpc.cluster.loadbalance.RandomLoadBalance
+ 923:             1             16  com.alibaba.dubbo.rpc.cluster.router.MockInvokersSelector
+ 924:             1             16  com.alibaba.dubbo.rpc.cluster.support.FailoverCluster
+ 925:             1             16  com.alibaba.dubbo.rpc.cluster.support.wrapper.MockClusterWrapper
+ 926:             1             16  com.alibaba.dubbo.rpc.filter.ClassLoaderFilter
+ 927:             1             16  com.alibaba.dubbo.rpc.filter.ContextFilter
+ 928:             1             16  com.alibaba.dubbo.rpc.filter.EchoFilter
+ 929:             1             16  com.alibaba.dubbo.rpc.filter.ExceptionFilter
+ 930:             1             16  com.alibaba.dubbo.rpc.filter.ExecuteLimitFilter
+ 931:             1             16  com.alibaba.dubbo.rpc.filter.GenericFilter
+ 932:             1             16  com.alibaba.dubbo.rpc.filter.TimeoutFilter
+ 933:             1             16  com.alibaba.dubbo.rpc.filter.TokenFilter
+ 934:             1             16  com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec
+ 935:             1             16  com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec
+ 936:             1             16  com.alibaba.dubbo.rpc.protocol.dubbo.filter.TraceFilter
+ 937:             1             16  com.alibaba.dubbo.rpc.proxy.InvokerInvocationHandler
+ 938:             1             16  com.alibaba.dubbo.rpc.proxy.javassist.JavassistProxyFactory
+ 939:             1             16  com.alibaba.dubbo.validation.Validation$Adpative
+ 940:             1             16  com.alibaba.dubbo.validation.filter.ValidationFilter
+ 941:             1             16  com.sun.org.apache.xerces.internal.dom.CharacterDataImpl$1
+ 942:             1             16  com.sun.org.apache.xerces.internal.impl.dv.dtd.IDDatatypeValidator
+ 943:             1             16  com.sun.org.apache.xerces.internal.impl.dv.dtd.IDREFDatatypeValidator
+ 944:             1             16  com.sun.org.apache.xerces.internal.impl.dv.dtd.NMTOKENDatatypeValidator
+ 945:             1             16  com.sun.org.apache.xerces.internal.impl.dv.dtd.NOTATIONDatatypeValidator
+ 946:             1             16  com.sun.org.apache.xerces.internal.impl.dv.dtd.StringDatatypeValidator
+ 947:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.AnyAtomicDV
+ 948:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.AnySimpleDV
+ 949:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.AnyURIDV
+ 950:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.Base64BinaryDV
+ 951:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.BooleanDV
+ 952:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.DateDV
+ 953:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.DateTimeDV
+ 954:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.DayDV
+ 955:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.DayTimeDurationDV
+ 956:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.DecimalDV
+ 957:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.DoubleDV
+ 958:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.DurationDV
+ 959:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.EntityDV
+ 960:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.FloatDV
+ 961:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.HexBinaryDV
+ 962:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.IDDV
+ 963:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.IDREFDV
+ 964:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.IntegerDV
+ 965:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.ListDV
+ 966:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.MonthDV
+ 967:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.MonthDayDV
+ 968:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.PrecisionDecimalDV
+ 969:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.StringDV
+ 970:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.TimeDV
+ 971:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.UnionDV
+ 972:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.XSSimpleTypeDecl$1
+ 973:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.XSSimpleTypeDecl$4
+ 974:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.YearDV
+ 975:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.YearMonthDV
+ 976:             1             16  com.sun.org.apache.xerces.internal.impl.dv.xs.YearMonthDurationDV
+ 977:             1             16  com.sun.org.apache.xerces.internal.impl.xs.XSConstraints$1
+ 978:             1             16  com.sun.org.apache.xerces.internal.impl.xs.models.XSEmptyCM
+ 979:             1             16  com.sun.org.apache.xerces.internal.impl.xs.util.XIntPool
+ 980:             1             16  com.sun.org.apache.xerces.internal.impl.xs.util.XSObjectListImpl$1
+ 981:             1             16  com.sun.org.apache.xerces.internal.jaxp.datatype.DatatypeFactoryImpl
+ 982:             1             16  com.sun.org.apache.xerces.internal.utils.SecuritySupport
+ 983:             1             16  java.io.FileDescriptor$1
+ 984:             1             16  java.io.FileInputStream$1
+ 985:             1             16  java.lang.ApplicationShutdownHooks$1
+ 986:             1             16  java.lang.CharacterDataLatin1
+ 987:             1             16  java.lang.ClassValue$Identity
+ 988:             1             16  java.lang.Float
+ 989:             1             16  java.lang.ProcessEnvironment$StringKeySet
+ 990:             1             16  java.lang.Runtime
+ 991:             1             16  java.lang.String$CaseInsensitiveComparator
+ 992:             1             16  java.lang.System$2
+ 993:             1             16  java.lang.Terminator$1
+ 994:             1             16  java.lang.invoke.MemberName$Factory
+ 995:             1             16  java.lang.invoke.MethodHandleImpl$2
+ 996:             1             16  java.lang.invoke.MethodHandleImpl$3
+ 997:             1             16  java.lang.ref.Reference$1
+ 998:             1             16  java.lang.ref.Reference$Lock
+ 999:             1             16  java.lang.reflect.Proxy$KeyFactory
+1000:             1             16  java.lang.reflect.Proxy$ProxyClassFactory
+1001:             1             16  java.lang.reflect.ReflectAccess
+1002:             1             16  java.net.InetAddress$2
+1003:             1             16  java.net.URLClassLoader$7
+1004:             1             16  java.nio.Bits$1
+1005:             1             16  java.nio.charset.CoderResult$1
+1006:             1             16  java.nio.charset.CoderResult$2
+1007:             1             16  java.security.ProtectionDomain$2
+1008:             1             16  java.security.ProtectionDomain$JavaSecurityAccessImpl
+1009:             1             16  java.text.DontCareFieldPosition$1
+1010:             1             16  java.util.Collections$EmptyEnumeration
+1011:             1             16  java.util.Collections$EmptyIterator
+1012:             1             16  java.util.Collections$EmptyList
+1013:             1             16  java.util.Collections$EmptySet
+1014:             1             16  java.util.Currency$CurrencyNameGetter
+1015:             1             16  java.util.ResourceBundle$Control
+1016:             1             16  java.util.WeakHashMap$KeySet
+1017:             1             16  java.util.concurrent.ConcurrentHashMap$ValuesView
+1018:             1             16  java.util.concurrent.ThreadPoolExecutor$AbortPolicy
+1019:             1             16  java.util.concurrent.atomic.AtomicReference
+1020:             1             16  java.util.jar.JarVerifier$3
+1021:             1             16  java.util.jar.JavaUtilJarAccessImpl
+1022:             1             16  java.util.logging.LoggingProxyImpl
+1023:             1             16  java.util.regex.Pattern$4
+1024:             1             16  java.util.regex.Pattern$LastNode
+1025:             1             16  java.util.regex.Pattern$Node
+1026:             1             16  java.util.zip.ZipFile$1
+1027:             1             16  javassist.ClassClassPath
+1028:             1             16  javassist.ClassPoolTail
+1029:             1             16  javassist.LoaderClassPath
+1030:             1             16  javax.xml.parsers.SecuritySupport
+1031:             1             16  org.apache.log4j.DefaultCategoryFactory
+1032:             1             16  org.apache.log4j.helpers.AppenderAttachableImpl
+1033:             1             16  org.apache.log4j.helpers.NullEnumeration
+1034:             1             16  org.apache.log4j.or.DefaultRenderer
+1035:             1             16  org.apache.log4j.or.RendererMap
+1036:             1             16  org.apache.log4j.spi.DefaultRepositorySelector
+1037:             1             16  org.jboss.netty.channel.DefaultChannelPipeline$DiscardingChannelSink
+1038:             1             16  org.jboss.netty.channel.socket.nio.NioSocketChannel$WriteTask
+1039:             1             16  org.jboss.netty.channel.socket.nio.SocketSendBufferPool$EmptySendBuffer
+1040:             1             16  org.jboss.netty.util.ThreadNameDeterminer$1
+1041:             1             16  org.jboss.netty.util.ThreadNameDeterminer$2
+1042:             1             16  org.springframework.beans.ExtendedBeanInfoFactory
+1043:             1             16  org.springframework.beans.factory.support.CglibSubclassingInstantiationStrategy
+1044:             1             16  org.springframework.context.expression.BeanExpressionContextAccessor
+1045:             1             16  org.springframework.context.expression.BeanFactoryAccessor
+1046:             1             16  org.springframework.context.expression.BeanFactoryResolver
+1047:             1             16  org.springframework.context.expression.EnvironmentAccessor
+1048:             1             16  org.springframework.context.expression.MapAccessor
+1049:             1             16  org.springframework.context.expression.StandardBeanExpressionResolver$1
+1050:             1             16  org.springframework.context.support.ApplicationContextAwareProcessor
+1051:             1             16  org.springframework.core.LocalVariableTableParameterNameDiscoverer
+1052:             1             16  org.springframework.core.OrderComparator
+1053:             1             16  org.springframework.core.convert.support.ArrayToCollectionConverter
+1054:             1             16  org.springframework.core.convert.support.ArrayToObjectConverter
+1055:             1             16  org.springframework.core.convert.support.ArrayToStringConverter
+1056:             1             16  org.springframework.core.convert.support.CharacterToNumberFactory
+1057:             1             16  org.springframework.core.convert.support.CollectionToCollectionConverter
+1058:             1             16  org.springframework.core.convert.support.CollectionToObjectConverter
+1059:             1             16  org.springframework.core.convert.support.EnumToStringConverter
+1060:             1             16  org.springframework.core.convert.support.FallbackObjectToStringConverter
+1061:             1             16  org.springframework.core.convert.support.IdToEntityConverter
+1062:             1             16  org.springframework.core.convert.support.MapToMapConverter
+1063:             1             16  org.springframework.core.convert.support.NumberToCharacterConverter
+1064:             1             16  org.springframework.core.convert.support.NumberToNumberConverterFactory
+1065:             1             16  org.springframework.core.convert.support.ObjectToArrayConverter
+1066:             1             16  org.springframework.core.convert.support.ObjectToCollectionConverter
+1067:             1             16  org.springframework.core.convert.support.ObjectToObjectConverter
+1068:             1             16  org.springframework.core.convert.support.PropertiesToStringConverter
+1069:             1             16  org.springframework.core.convert.support.StringToArrayConverter
+1070:             1             16  org.springframework.core.convert.support.StringToBooleanConverter
+1071:             1             16  org.springframework.core.convert.support.StringToCharacterConverter
+1072:             1             16  org.springframework.core.convert.support.StringToCollectionConverter
+1073:             1             16  org.springframework.core.convert.support.StringToEnumConverterFactory
+1074:             1             16  org.springframework.core.convert.support.StringToLocaleConverter
+1075:             1             16  org.springframework.core.convert.support.StringToNumberConverterFactory
+1076:             1             16  org.springframework.core.convert.support.StringToPropertiesConverter
+1077:             1             16  org.springframework.core.convert.support.StringToUUIDConverter
+1078:             1             16  org.springframework.expression.common.TemplateAwareExpressionParser$1
+1079:             1             16  org.springframework.expression.spel.standard.SpelExpressionParser
+1080:             1             16  org.springframework.expression.spel.support.StandardOperatorOverloader
+1081:             1             16  org.springframework.expression.spel.support.StandardTypeComparator
+1082:             1             16  org.springframework.util.ReflectionUtils$4
+1083:             1             16  org.springframework.util.ReflectionUtils$5
+1084:             1             16  org.springframework.util.ReflectionUtils$6
+1085:             1             16  sun.misc.ASCIICaseInsensitiveComparator
+1086:             1             16  sun.misc.Launcher
+1087:             1             16  sun.misc.Launcher$Factory
+1088:             1             16  sun.misc.Perf
+1089:             1             16  sun.misc.Unsafe
+1090:             1             16  sun.net.DefaultProgressMeteringPolicy
+1091:             1             16  sun.net.www.protocol.file.Handler
+1092:             1             16  sun.net.www.protocol.jar.JarFileFactory
+1093:             1             16  sun.nio.ch.KQueueSelectorProvider
+1094:             1             16  sun.nio.ch.Net$1
+1095:             1             16  sun.nio.ch.Util$1
+1096:             1             16  sun.reflect.GeneratedConstructorAccessor1
+1097:             1             16  sun.reflect.GeneratedConstructorAccessor2
+1098:             1             16  sun.reflect.GeneratedConstructorAccessor3
+1099:             1             16  sun.reflect.GeneratedConstructorAccessor4
+1100:             1             16  sun.reflect.GeneratedConstructorAccessor5
+1101:             1             16  sun.reflect.GeneratedMethodAccessor1
+1102:             1             16  sun.reflect.GeneratedMethodAccessor2
+1103:             1             16  sun.reflect.GeneratedMethodAccessor3
+1104:             1             16  sun.reflect.GeneratedMethodAccessor4
+1105:             1             16  sun.reflect.GeneratedMethodAccessor5
+1106:             1             16  sun.reflect.GeneratedMethodAccessor6
+1107:             1             16  sun.reflect.GeneratedMethodAccessor7
+1108:             1             16  sun.reflect.ReflectionFactory
+1109:             1             16  sun.reflect.generics.tree.BottomSignature
+1110:             1             16  sun.reflect.generics.tree.VoidDescriptor
+1111:             1             16  sun.security.util.AlgorithmDecomposer
+1112:             1             16  sun.security.util.DisabledAlgorithmConstraints$KeySizeConstraints
+1113:             1             16  sun.util.calendar.Gregorian
+1114:             1             16  sun.util.locale.provider.AuxLocaleProviderAdapter$NullProvider
+1115:             1             16  sun.util.locale.provider.CalendarDataUtility$CalendarWeekParameterGetter
+1116:             1             16  sun.util.locale.provider.SPILocaleProviderAdapter
+1117:             1             16  sun.util.locale.provider.TimeZoneNameUtility$TimeZoneNameGetter
+1118:             1             16  sun.util.resources.LocaleData
+1119:             1             16  sun.util.resources.LocaleData$LocaleDataResourceBundleControl
+Total        625841      112848704

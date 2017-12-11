@@ -1,0 +1,9 @@
+com/alibaba/dubbo/remoting/http/jetty/JettyHttpBinder.class
+com/alibaba/dubbo/remoting/http/servlet/ServletHttpBinder.class
+com/alibaba/dubbo/remoting/http/HttpBinder.class
+com/alibaba/dubbo/remoting/http/servlet/ServletHttpServer.class
+com/alibaba/dubbo/remoting/http/HttpHandler.class
+com/alibaba/dubbo/remoting/http/jetty/JettyHttpServer.class
+com/alibaba/dubbo/remoting/http/servlet/DispatcherServlet.class
+com/alibaba/dubbo/remoting/http/HttpServer.class
+com/alibaba/dubbo/remoting/http/support/AbstractHttpServer.class

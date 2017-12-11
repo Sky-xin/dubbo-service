@@ -1,0 +1,4 @@
+com/alibaba/dubbo/registry/multicast/MulticastRegistryFactory.class
+com/alibaba/dubbo/registry/multicast/MulticastRegistry$1.class
+com/alibaba/dubbo/registry/multicast/MulticastRegistry$2.class
+com/alibaba/dubbo/registry/multicast/MulticastRegistry.class

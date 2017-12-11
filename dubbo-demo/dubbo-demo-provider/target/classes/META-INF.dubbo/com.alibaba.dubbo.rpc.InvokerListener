@@ -1,0 +1,2 @@
+myInvoker=com.alibaba.dubbo.rpc.listener.MyInvokerListener
+myExporter=com.alibaba.dubbo.rpc.listener.MyExporterListener

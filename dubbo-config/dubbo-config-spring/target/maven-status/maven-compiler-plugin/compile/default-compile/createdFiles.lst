@@ -1,0 +1,8 @@
+com/alibaba/dubbo/config/spring/schema/DubboBeanDefinitionParser.class
+com/alibaba/dubbo/config/spring/ReferenceBean.class
+com/alibaba/dubbo/config/spring/status/DataSourceStatusChecker.class
+com/alibaba/dubbo/config/spring/extension/SpringExtensionFactory.class
+com/alibaba/dubbo/config/spring/schema/DubboNamespaceHandler.class
+com/alibaba/dubbo/config/spring/ServiceBean.class
+com/alibaba/dubbo/config/spring/status/SpringStatusChecker.class
+com/alibaba/dubbo/config/spring/AnnotationBean.class

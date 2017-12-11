@@ -1,0 +1,2 @@
+deprecated=com.alibaba.dubbo.rpc.listener.DeprecatedInvokerListener
+myInvoker=com.alibaba.dubbo.rpc.listener.MyInvokerListener

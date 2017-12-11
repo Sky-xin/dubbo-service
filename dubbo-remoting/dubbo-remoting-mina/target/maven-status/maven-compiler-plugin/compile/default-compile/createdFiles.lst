@@ -1,0 +1,10 @@
+com/alibaba/dubbo/remoting/transport/mina/MinaTransporter.class
+com/alibaba/dubbo/remoting/transport/mina/MinaChannel.class
+com/alibaba/dubbo/remoting/transport/mina/MinaCodecAdapter$InternalEncoder.class
+com/alibaba/dubbo/remoting/transport/mina/MinaClient.class
+com/alibaba/dubbo/remoting/transport/mina/MinaCodecAdapter$InternalDecoder.class
+com/alibaba/dubbo/remoting/transport/mina/MinaCodecAdapter$1.class
+com/alibaba/dubbo/remoting/transport/mina/MinaCodecAdapter.class
+com/alibaba/dubbo/remoting/transport/mina/MinaClient$1.class
+com/alibaba/dubbo/remoting/transport/mina/MinaHandler.class
+com/alibaba/dubbo/remoting/transport/mina/MinaServer.class

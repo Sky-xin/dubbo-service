@@ -1,0 +1,6 @@
+com/alibaba/dubbo/remoting/transport/grizzly/GrizzlyCodecAdapter.class
+com/alibaba/dubbo/remoting/transport/grizzly/GrizzlyClient.class
+com/alibaba/dubbo/remoting/transport/grizzly/GrizzlyChannel.class
+com/alibaba/dubbo/remoting/transport/grizzly/GrizzlyServer.class
+com/alibaba/dubbo/remoting/transport/grizzly/GrizzlyHandler.class
+com/alibaba/dubbo/remoting/transport/grizzly/GrizzlyTransporter.class
